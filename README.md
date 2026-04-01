@@ -1,2 +1,2 @@
-# sun11999-sun11999.github.io
-My homepage
+# sun11999.github.io
+A repository for my homepage.
